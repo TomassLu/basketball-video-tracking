@@ -11,4 +11,4 @@ CV2, YOLO
 
 # Used method info
 Main models/methods used: YOLOv8 for person detection, TrackerCSRT for tracking (during tracking YOLO periodically recalculates player poxsitions)
-Also deepsort was considered, but TrackerCSRT prooved to be easier to use for one object tracking
+Deepsort was also considered, but TrackerCSRT prooved to be easier to use for one object tracking
